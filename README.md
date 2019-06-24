@@ -1,3 +1,13 @@
+#recipes app
+#MVP
+Enter a name, a description with the steps
+Have pictures
+Have some ranking for difficulty and quality
+Add the time needed
+Have different steps with a picture for each
+Store them somewhere
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
