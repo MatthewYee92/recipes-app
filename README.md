@@ -1,5 +1,5 @@
-#recipes app
-#MVP
+##recipes app
+##MVP
 Enter a name, a description with the steps
 Have pictures
 Have some ranking for difficulty and quality
