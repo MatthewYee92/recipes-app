@@ -6,3 +6,21 @@ h1 {
 .App {
   color: blue;
 }
+
+.search-bar {
+  align-content: center;
+}
+
+.search-form {
+  align-content: center;
+}
+
+.search-button {
+  align-content: center;
+  flex-wrap: wrap;
+  color: blue;
+  
+}
+
+form {
+}
