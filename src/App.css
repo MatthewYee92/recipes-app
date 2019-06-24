@@ -2,3 +2,7 @@ h1 {
   align-content: center;
   text-align: center;
 }
+
+.App {
+  color: blue;
+}
