@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - How useState and useEffect work
 - How to pass down data in react with props
 * USE EDAMAM API
+- Tutorial video - https://www.youtube.com/watch?v=U9T6YkEDkMo
 
 ### `npm start`
 
